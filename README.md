@@ -2,8 +2,6 @@
 
 MoveDoro. Description soon.
 
-<br>
-
 
 ## Tecnologias
 
