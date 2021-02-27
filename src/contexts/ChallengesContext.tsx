@@ -95,7 +95,7 @@ export function ChallengesProvider({ children }: ChallengesProviderProps) {
         completeChallenge,
       }}
     >
-      { children}
+      {children}
     </ChallengesContext.Provider>
   );
 }
