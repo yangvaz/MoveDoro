@@ -1,8 +1,17 @@
-#
+<h1 align="center">
+    <img src="public/apresentacao_desktop.gif">
+</h1>
+
+Obs: no gif acima, o ciclo foi setado em 3 segundos apenas para exibir, de forma rápida, o seu funcionamento. 
+Na demonstração abaixo, o ciclo está setado em 25 minutos, para que você possa testar integralmente a aplicação.
+
+<br />
 
 <h3 align="center">
     <a href="https://move-doro.vercel.app/">Acessar a demonstração</a>
 <h3 >
+
+<br />
 
 # Indice
 
